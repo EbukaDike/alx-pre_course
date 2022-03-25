@@ -1,6 +1,10 @@
 #!/bin/bash
 <<<<<<< HEAD
+<<<<<<< HEAD
 echo "The Schoolis open!"
 =======
 echo "School"
 >>>>>>> origin/master
+=======
+echo "School"
+>>>>>>> b41f7b5d3d947da85bb43d8c0518bc6ec0816870
